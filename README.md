@@ -1,4 +1,4 @@
-![Banner10](https://user-images.githubusercontent.com/47133518/100395654-58f09c00-3007-11eb-9f93-d7aac3e62078.PNG)
+![Banner10](https://raw.githubusercontent.com/JoelNieto90/JoelNieto90/main/assets/Banner10.PNG)
 
 <p align="center">
  <a href="mailto:versusjoel@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
