@@ -33,15 +33,16 @@
   <img align="left" alt="SQL_Server" width="26px" src="https://img.icons8.com/color/452/microsoft-sql-server.png"/>
 </div>
 
+<br>
 
 <h3>GitHub Stats</h3>
 <div align="center">
   <a href="https://github.com/JoelNieto90">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoelNieto90&count_private=true&show_icons=true&line_height=27&theme=synthwave" alt="JoelNieto90's GitHub Stats"/>
-</a>
-<a href="https://github.com/JoelNieto90">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoelNieto90&count_private=true&show_icons=true&line_height=27&theme=synthwave" alt="JoelNieto90's GitHub Stats"/>
+ </a>
+ <a href="https://github.com/JoelNieto90">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelNieto90&langs_count=10&theme=synthwave&layout=compact" alt="JoelNieto90 :: Top Langs" />
-</a>
+ </a>
 </div>
 
 <!--
