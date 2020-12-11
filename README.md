@@ -11,7 +11,7 @@
 
 
 <h3 align="center">Hola!, Gracias por seguir mi trabajo!💻</h3>
-<p>Frontend Developer, Platzi Master student, with experience and analytical skills to solve problems applying the methodologies and good practices of software development.</p>
+<p>Frontend Developer, estudiante de Platzi Master, con experiencia y habilidades analíticas para resolver problemas aplicando las metodologías y buenas prácticas del desarrollo de software.</p>
 
 ### Languages and Tools:
 
